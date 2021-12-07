@@ -16,7 +16,7 @@ const WhiteLink = styled.a`
 
 const Hero = (props) => (
   <>
-    <Section row nopadding>
+    <Section row nopadding> 
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />

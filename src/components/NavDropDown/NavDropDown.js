@@ -14,7 +14,7 @@ export const DropDownContainer = styled.div`
   cursor: default;
   overflow: hidden;
   transition: 0.3s ease;
-  visibility: ${({ active }) => active ? 'visible' : 'hidden'};
+  visibility: ${({ active }) => active ? 'hidden' : 'visible'};
   opacity: ${({ active }) => active ? '1' : '0'};
   transform-origin: top;
   transform: ${({ active }) => active ? 'scaleY(1)' : 'scaleY(.3)'};

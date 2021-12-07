@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description:"TopDealz is an E-commerce website that allows people to buy and sell physical goods and digital products over the internet rather than at a brick-and-mortar location. Created using MERN Stack that performs all CRUD Operations with the inclusion of Paytm payment gateway. Fully optimised and responsive website for mobile, tablet and desktop view.",
-    image: '/images/R.png',
+    image: 'https://res.cloudinary.com/dkwsqcz9n/image/upload/v1638871957/aq2aphdvllv53cuozqlq.jpg',
     tags: ['ReactJS', 'NodeJS','MongoDB'],
     visit: 'https://github.com/disdin/TopDealz',
     source: 'https://topdealz.herokuapp.com/',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Blog-Website',
     description:"BloggersDot is a MERN Stack application that consists of a collection of posts that can be short, informal, controversial, or more professional. It performs all CRUD Operations with Sign-in/Sign-up functionality. The website is fully responsive for mobile, tablet and desktop view and contains good animation effects.",
-    image: '/images/blogimage.jpg',
+    image: 'https://res.cloudinary.com/dkwsqcz9n/image/upload/v1638872024/iv9gqf7glmskx7m6rh7l.png',
     tags: ['ReactJS', 'NodeJS','MongoDB','Cloudinary'],
     visit: 'https://github.com/disdin/BlogWebsite',
     source: 'https://blogwebsitedisdin.herokuapp.com/',
